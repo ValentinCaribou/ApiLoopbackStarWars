@@ -1,0 +1,6 @@
+{
+  "name": "personnel",
+  "connector": "memory",
+  "localStorage": "",
+  "file": ""
+}
